@@ -1,7 +1,7 @@
 # geopandasPseudo3D
 <img src="https://raw.githubusercontent.com/moyocoyani/geopandasPseudo3D/master/figures/data.png" width=900 >
 
-A little tutorial about how to create a pseudo3d perspective of geopandas dataset (spanish)
+A little tutorial about how to create a pseudo3d perspective map from a geopandas dataset (spanish)
 
 En este notebook encontrarás pasos para crear un mapa de México en perspectiva 2.5D, así como posibles eventualidades que podrían surgir al momento de crearlo.
 
@@ -13,3 +13,5 @@ El notebook está dividido en cuatro partes.
 - Notas finales. Algunos comentarios extras que podrían ser de ayuda.
 
 Se espera que el lector tenga conocimientos intermedios sobre matplotlib y pandas. No es necesario que conozca sobre geopandas aunque sería de gran ayuda.
+
+
