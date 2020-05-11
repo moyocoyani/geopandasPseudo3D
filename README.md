@@ -5,6 +5,8 @@ A little tutorial about how to create a pseudo3d perspective map from a geopanda
 
 En este notebook encontrarás pasos para crear un mapa de México en perspectiva 2.5D, así como posibles eventualidades que podrían surgir al momento de crearlo.
 
+Si lo prefieres puedes visitar la versión básica del tutorial en este post de Medium ["Crea un mapa en perspectiva 2.5D con geopandas y python."](https://medium.com/@gamoles/crea-un-mapa-en-proyeccion-2-5d-796ffd068e0d)
+
 El notebook está dividido en cuatro partes.
 
 - Set up. Que se necesita tener instalado y que debes importar para seguir los pasos del notebook.
